@@ -1,0 +1,9 @@
+[engine]
+default_backend = "google"
+
+[intelligence]
+default_model = "gemini-2.5-flash"
+
+[server]
+host = "0.0.0.0"
+port = 8000
